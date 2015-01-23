@@ -1,4 +1,4 @@
-# pyZAPYAPI
+# pyzapiapi
 Yet another API для Zabbix (точнее API для pyzabbix)
 
 Используется для построения графиков по значениям выбранных метрик.
